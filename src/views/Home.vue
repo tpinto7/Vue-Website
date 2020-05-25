@@ -25,13 +25,16 @@
     <v-container class="mt-5">
       <v-layout wrap>
         <v-flex xs12>
-          <div class="display-1 font-weight-bold" id="about">This is me</div>
+          <div class="display-1 font-weight-bold" id="about">About me</div>
         </v-flex>
         <v-flex xs12 mt-5>
-          <div class="body-1">{{aboutText}}</div>
           <div
             class="body-1 mt-3"
-          >Working on starting an app development business and always looking for new clients! Would love to talk to you about your idea.</div> 
+          >Hey there! My name is Tyler and I am a 2B Software Engineering student at the University of Waterloo. I am passionate about using software for social good, particularly in the health care and sustainability industries.
+          I have a strong background in full-stack software development and am building my skills in machine learning and game development. <b>I am actively looking for a Fall 2020 Internship</b>.
+          </div>
+          <br>
+          <div>I have extensive experience with Java, JavaScript, and C++, and am constantly improving my skills every day!</div> 
           <!-- maybe add picture slideshow here --> 
         </v-flex>
       </v-layout>
