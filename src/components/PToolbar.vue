@@ -23,6 +23,8 @@
               @click="$vuetify.goTo('#contact',options )"
               text
             >Contact</v-btn>
+            <v-btn>Resume</v-btn>
+              
           </v-toolbar-items>
         </v-layout>
       </v-container>
